@@ -38,11 +38,11 @@
     <!-- 
       [5] 把这里的内容修改成你自己的主要工作或兴趣方向
     -->
-    <h5>⚫  😊 正在学习AI和后端开发中;</h5>
-    <h5>⚫  😁 探索有趣的新技术，并乐于分享;</h5>
-    <h5>⚫  😇 欢迎与我交流任何技术问题;</h5>
-    <h5>⚫  🤗 Learning AI and back-end development;</h5>
-    <h5>⚫  😛 Exploring new and interesting technologies;</h5>
+    <h5>⚫  😊 3年+ 后端开发工程师(c++ python web等);</h5>
+    <h5>⚫  😁 资深架构设计师;</h5>
+    <h5>⚫  🤗 深度学习算法工程师(点云 图像 大语言模型);</h5>
+    <h5>⚫  😇 ai agent chatbot mcp重度研究爱好者;</h5>
+    <h5>⚫  😛 Nas 发烧友;</h5>
     <h5>⚫  😛 Feel free to connect with me!;</h5>
 
 ----
@@ -83,13 +83,8 @@
   如果没有那么多项目，可以删除多余的 <div> 块。
 -->
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/fengzhengxiong/[你的仓库名1]" title="[你的仓库名1]"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzhengxiong&repo=[你的仓库名1]&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right"  href="https://github.com/fengzhengxiong/[你的仓库名2]" title="[你的仓库名2]"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzhengxiong&repo=[你的仓库名2]&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<div width="100%" align="center">  
-    <a align="left" href="https://github.com/fengzhengxiong/[你的仓库名3]" title="[你的仓库名3]"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzhengxiong&repo=[你的仓库名3]&theme=react&border_color=61dafb&border_radius=10"></a>    
-    <a  align="right"  href="https://github.com/fengzhengxiong/[你的仓库名4]" title="[你的仓库名4]"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzhengxiong&repo=[你的仓库名4]&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/fengzhengxiong/agent_test" title="agent_test"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzhengxiong&repo=agent_test&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right"  href="https://github.com/fengzhengxiong/rag_system" title="rag_system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzhengxiong&repo=rag_system&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br><br> <!-- 用于解决布局重叠问题 -->
