@@ -20,21 +20,21 @@
    如果你在 ./icon/ 文件夹里放好了图片，请将 src 改为 "./icon/zhihu.png" 这种格式
 -->
 <div align="center">
-    <!-- 知乎 -->
-    <a href="https://www.zhihu.com/people/a-xiong-81-3-11" target="_blank">
-        <img src="https://img.icons8.com/3d-fluency/94/zhihu.png" width="50" style="margin-right: 20px;"/>
+   <!-- 知乎 -->
+    <a href="https://www.zhihu.com/people/a-xiong-81-3-11" target="_blank" style="text-decoration:none;">
+        <img src="./icons/github.gif?raw=true" width="45" style="margin: 0 15px; border-radius: 12px;" alt="Zhihu"/>
     </a>
-    <!-- 公众号 (跳转到底部二维码区域) -->
-    <a href="#-connect-with-me">
-        <img src="https://img.icons8.com/3d-fluency/94/wechat-logo.png" width="50" style="margin-right: 20px;"/>
+    <!-- 微信公众号 (跳转到底部) -->
+    <a href="#-connect-with-me" style="text-decoration:none;">
+        <img src="./icons/wechat.png?raw=true" width="45" style="margin: 0 15px; border-radius: 12px;" alt="WeChat"/>
     </a>
     <!-- CSDN -->
-    <a href="https://blog.csdn.net/weixin_44709991" target="_blank">
-        <img src="https://img.icons8.com/3d-fluency/94/rss-a.png" width="50" style="margin-right: 20px;"/>
+    <a href="https://blog.csdn.net/weixin_44709991" target="_blank" style="text-decoration:none;">
+        <img src="./icons/csdn.png?raw=true" width="45" style="margin: 0 15px; border-radius: 12px;" alt="CSDN"/>
     </a>
-    <!-- 邮件 -->
-    <a href="mailto:1220597071@qq.com">
-        <img src="https://img.icons8.com/3d-fluency/94/mail.png" width="50"/>
+    <!-- 邮箱 -->
+    <a href="mailto:1220597071@qq.com" style="text-decoration:none;">
+        <img src="./icons/email.gif?raw=true" width="45" style="margin: 0 15px; border-radius: 12px;" alt="Email"/>
     </a>
 </div>
 
