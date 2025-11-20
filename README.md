@@ -1,111 +1,109 @@
+<!-- 顶部 Header 区域 -->
 <div align="center">
-   <!-- 
-     [1] 修改为你自己的名字 
-   -->
-   <h1>Hello, I'm <a href="https://github.com/fengzhengxiong">fengzhengxiong</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<p align='center'>
-    <!-- 
-      确保你的仓库里有 ./icons/github.gif 这个文件，或者使用绝对路径
-    -->
-    <a href="https://github.com/fengzhengxiong"><img height="30" src="./icons/github.gif?raw=true"></a>  
-    <!-- 
-      [2] 修改为你自己的邮箱地址 
-    -->
-    <a href="1220597071@qq.com"><img height="30" src="./icons/email.gif?raw=true"></a>  
-    <!-- 
-      [3] 如果你有CSDN，修改为你的主页链接，如果没有可以删除这一行
-    -->
-    <a href="https://blog.csdn.net/weixin_44709991"><img height="30" src="./icons/csdn.png?raw=true"></a>  
- </p>
-
- <!-- 
-   这里的 username=guojin-yan 已经全部替换为你的用户名 fengzhengxiong 
- -->
- <div align=left><span><img src="https://github-readme-stats.vercel.app/api?username=fengzhengxiong&show_icons=true&theme=tokyonight" height=180/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengzhengxiong&layout=compact&theme=tokyonight" height=180/></span></div>
-
-----
-
-<!-- 
-  [4] 如果你有CSDN且想用这个卡片，请把 id=Grape_yan 修改为你的CSDN用户名
-  如果你不用CSDN，可以直接删除下面这行 img 标签
--->
-<img align="right" alt="GIF" src="https://stats.justsong.cn/api/csdn?id=weixin_44709991&theme=dark" width="350" height="180" />
-
-
-
-<div align="left">
-    <h3>🛎️ Main jobs</h3>
-    <!-- 
-      [5] 把这里的内容修改成你自己的主要工作或兴趣方向
-    -->
-    <h5>⚫  🤗 深度学习算法工程师(点云 图像 大语言模型);</h5>
-    <h5>⚫  😁 资深架构设计师;</h5>
-    <h5>⚫  😊 3年+ 后端开发工程师(c++ python web等);</h5>
-    <h5>⚫  😛 vtk opengl opencv 资深研究员;</h5>
-    <h5>⚫  😇 ai agent chatbot mcp重度研究爱好者;</h5>
-    <h5>⚫  😛 nas 发烧友;</h5>
-
-----
-
-<!-- 
-  [6] 重要：这个动图需要你自己上传到你的仓库中。
-  创建一个名为 fengzhengxiong 的公开仓库，把你的动图（比如命名为 code.gif）放进去，
-  然后把下面的 src 链接替换成你自己的图片链接。
-  例如: https://github.com/fengzhengxiong/fengzhengxiong/blob/main/image/code.gif?raw=true
--->
-<img align="right" alt="GIF" src="./image/code.gif?raw=true" width="520" height="330" />
-
- 
-
-### 🌅 Languages  
-<!-- 
-  [7] 修改成你熟悉的编程语言，图标名称可以在 https://skillicons.dev/ 查找
--->
-<p align='left'><a><img height="45" src="https://skillicons.dev/icons?i=java,go,python,html,css,js&perline=6"></a>  </p>
-
-### 🏗️ Skill
-<!-- 
-  [8] 修改成你掌握的技能/工具，图标名称可以在 https://skillicons.dev/ 查找
--->
-<p align='left'><a><img height="160" src="https://skillicons.dev/icons?i=spring,mysql,redis,docker,kubernetes,git,idea,vscode,linux,pytorch&perline=5"></a>  </p>
-
-----
-
-### 📘 My Top Open Source Projects
-
-<!-- 
-  [9] 重要：这里需要展示你自己的项目。
-  你需要修改两处：
-  1. href="..."  -> 链接到你的项目地址
-  2. src="...&repo=[你的项目名]" -> 卡片图片指向你的项目
-  
-  下面我为你保留了格式，但你需要替换成你自己的项目信息。
-  如果没有那么多项目，可以删除多余的 <div> 块。
--->
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/fengzhengxiong/agent_test" title="agent_test"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzhengxiong&repo=agent_test&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right"  href="https://github.com/fengzhengxiong/rag_system" title="rag_system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzhengxiong&repo=rag_system&theme=react&border_color=61dafb&border_radius=10"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Feng%20Zhengxiong&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Architect%20%26%20AI%20Algorithm%20Engineer&descAlignY=51&descAlign=62"/>
 </div>
 
-<br><br><br><br><br><br><br> <!-- 用于解决布局重叠问题 -->
+<!-- 动态打字简介：展示你的多重身份 -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Deep+Learning+Engineer+(Point+Cloud%2FLLM);Senior+System+Architect;Backend+Developer+(C%2B%2B%2FPython);AI+Agent+%26+Chatbot+Researcher" alt="Typing SVG" />
+  </a>
+</div>
 
+<br/>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<!-- 核心内容区：使用表格布局，左侧文字，右侧数据，确保对齐 -->
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h2>👨‍💻 About Me</h2>
+      <p>
+        Hi, I'm <b>Feng Zhengxiong</b>, a passionate developer and researcher. I bridge the gap between complex <b>Deep Learning Algorithms</b> and high-performance <b>Backend Systems</b>.
+      </p>
+      <p>
+        🔭 <b>Focus Areas:</b><br>
+        &nbsp;&nbsp;• <b>AI & Vision:</b> Point Cloud, LLMs, RAG, AI Agents.<br>
+        &nbsp;&nbsp;• <b>Graphics:</b> VTK, OpenGL, OpenCV Visualization.<br>
+        &nbsp;&nbsp;• <b>Architecture:</b> Distributed Systems, NAS Enthusiast.
+      </p>
+      <p>
+        🌱 <b>Currently Exploring:</b><br>
+        &nbsp;&nbsp;MCP (Model Context Protocol) & Advanced Chatbots.
+      </p>
+      <p>
+        📫 <b>Contact:</b><br>
+        &nbsp;&nbsp;<a href="mailto:1220597071@qq.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail"></a>
+        &nbsp;&nbsp;<a href="https://blog.csdn.net/weixin_44709991"><img src="https://img.shields.io/badge/CSDN-Blog-orange?style=flat-square&logo=rss"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <!-- GitHub 统计卡片 -->
+        <img src="https://github-readme-stats.vercel.app/api?username=fengzhengxiong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
+        <br/>
+        <!-- 常用语言占比 -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengzhengxiong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-<!-- 
-  访客计数器已经帮你修改为你的用户名 fengzhengxiong
--->
-<p align='center'><a><img src="https://profile-counter.glitch.me/fengzhengxiong/count.svg"></a>  </p>
+<br/>
 
+<!-- 技能栈：分类展示，看起来更专业 -->
+<h2 align="center">🛠 Tech Stack & Tools</h2>
 
-<!-- 
-  [10] 底部的联系方式，请按需修改或删除。
-  如果你想放QQ和微信的二维码图片，也需要像第[6]点一样，先上传到你的仓库，再在这里引用链接。
--->
-<p align='center'>
-    <a href="https://github.com/fengzhengxiong"><img height="30" src="./icons/github.gif?raw=true"></a>  
-    <a href="1220597071@qq.com"><img height="30" src="./icons/email.gif?raw=true"></a>  
-    <a href="https://blog.csdn.net/weixin_44709991"><img height="30" src="./icons/csdn.png?raw=true"></a>  
-    <!-- <a href="[你的QQ二维码图片链接]"><img height="30" src="./icons/qq.png?raw=true"></a>   -->
-    <!-- <a href="[你的微信二维码图片链接]"><img height="30" src="./icons/wechat.png"></a>   -->
- </p>
+<div align="center">
+  
+  <!-- 第一行：编程语言 -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,go,java,rust,js,html,css&perline=15" />
+  <br/>
+  
+  <!-- 第二行：AI 与 图形学 (根据你的描述定制) -->
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow,matlab&perline=15" />
+  <br/>
+  
+  <!-- 第三行：后端与运维 -->
+  <img src="https://skillicons.dev/icons?i=spring,mysql,redis,docker,kubernetes,linux,nginx&perline=15" />
+  <br/>
+  
+  <!-- 第四行：工具 -->
+  <img src="https://skillicons.dev/icons?i=git,idea,vscode,cmake,bash&perline=15" />
+  
+</div>
+
+<br/>
+
+<!-- 精选项目：用卡片形式展示，更加醒目 -->
+<h2 align="center">🚀 Top Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/fengzhengxiong/agent_test">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzhengxiong&repo=agent_test&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/fengzhengxiong/rag_system">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzhengxiong&repo=rag_system&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- 底部装饰与 CSDN 数据 -->
+<div align="center">
+  <img src="https://stats.justsong.cn/api/csdn?id=weixin_44709991&theme=dark" height="120" alt="CSDN Stats">
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://profile-counter.glitch.me/fengzhengxiong/count.svg" alt="Visitor Count">
+  <br>
+  <p align="center"><i>Thanks for visiting! Feel free to reach out.</i></p>
+</div>
