@@ -21,7 +21,7 @@
 -->
 <div align="center">
     <!-- 知乎 -->
-    <a href="https://www.zhihu.com/people/你的知乎ID" target="_blank">
+    <a href="https://www.zhihu.com/people/a-xiong-81-3-11" target="_blank">
         <img src="https://img.icons8.com/3d-fluency/94/zhihu.png" width="50" style="margin-right: 20px;"/>
     </a>
     <!-- 公众号 (跳转到底部二维码区域) -->
@@ -91,7 +91,7 @@
   <img src="https://img.shields.io/badge/Vector-DB-green?style=flat-square">
   <br/>
   <p> 🧠 基于检索增强生成的企业级知识库系统 </p>
-  <a href="https://github.com/fengzhengxiong/rag_system">View Repo ➜</a>
+  <a href="https://github.com/fengzhengxiong/rag_fzx">View Repo ➜</a>
 </div>
 
 <br/><br/>
